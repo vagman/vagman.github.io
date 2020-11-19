@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 {
-  font-size: 28px;
+  font-size: 24px;
   margin: 0;
   line-height: 1;
   font-weight: 400;
@@ -319,15 +319,15 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
-  font-weight: 450;
-  font-size: 14px;
-  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2px;
   display: inline-block;
-  padding: 10px 22px;
-  border: 2px solid #7DC913;
+  padding: 17px 29px;
+  border: 1px solid #7DC913;
   border-radius: 7px;
   transition: 0.5s;
-  margin: 10px;
+  margin-top: 60px;
   color: #fff;
   background: #7DC913;
 }
