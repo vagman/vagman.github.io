@@ -737,6 +737,18 @@ section {
 	display: block;
 	overflow: hidden;
 }   
+
+.contact-email {
+  color: black;
+  text-decoration: underline;
+}
+
+.contact-email:hover {
+  color: black;
+  font-size: 13px;
+  letter-spacing: 0.7px;
+  text-decoration: underline;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
