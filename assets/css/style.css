@@ -1,3 +1,9 @@
+/**
+* Template Name: Knight - v4.5.0
+* Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -691,7 +697,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .main-section.contact {
-	padding: 120px 0px;
+	padding:90px 0 100px;
 }
 
 .contact-section {
@@ -740,14 +746,10 @@ section {
 
 .contact-email {
   color: black;
-  text-decoration: underline;
 }
 
 .contact-email:hover {
   color: black;
-  font-size: 13px;
-  letter-spacing: 0.7px;
-  text-decoration: underline;
 }
 /*--------------------------------------------------------------
 # Footer

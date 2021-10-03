@@ -1,0 +1,16 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.contact-info-box{ margin:0 ;}
+}
+
+@media only screen and (max-width: 767px) {
+	.contact-info-box{ margin:0 0 12px 30px; font-size:12px;}
+	.contact-info-box span{ line-height:18px;}
+	.contact-info-box.phone span, .contact-info-box.email span { padding-top: 6px;}
+	.social-link{ margin-left:30px;}
+}
+
+@media only screen and (max-width: 479px) {
+	/****Mobile Portrait 320 ****/
+	.contact-info-box{ margin-left:0px;}
+	.header{ padding:40px;}
+}
