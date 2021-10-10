@@ -325,15 +325,15 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 600;
+  font-size: 14px;
   letter-spacing: 2px;
   display: inline-block;
-  padding: 17px 29px;
+  padding: 14px 23px;
   border: 1px solid #7DC913;
   border-radius: 7px;
   transition: 0.5s;
-  margin-top: 60px;
+  margin-top: 10px;
   color: #fff;
   background: #7DC913;
 }
@@ -725,7 +725,7 @@ section {
 	font-size: 14px;
 	font-weight: 400;
 	float: left;
-	width: 100px;
+	width: 135px;
 	margin-right: 12px;
 	line-height: 25px;
 }
